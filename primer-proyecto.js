@@ -1,0 +1,1 @@
+console.log('creaste tu primer packaje.json')
